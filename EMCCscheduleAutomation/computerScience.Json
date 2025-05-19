@@ -1,0 +1,36 @@
+{
+    "computerscience": {
+        "First Semester" : {
+            "CSC": [["CSC110", "CSC110AA", "CSC110AB"],[3,4]],
+            "MAT" : [["MAT220", "MAT221"],[4, 5]],
+            "ENG" : [["ENG101","ENG107"],[3]],
+            "HU" : [["HU"],[3]],
+            "SB" : [["SB"],[3]],
+            "FYE" : [["FYE101", "FYE102"], [1, 2, 3]]
+        },
+        "Second Semester" : {
+            "CSC": [["CSC205", "CSC205AA", "CSC205AB", "CSC205AC", "CSC205AD"],[3,4]],
+            "MAT" : [["MAT230", "MAT231"],[4, 5]],
+            "ENG" : [["ENG102","ENG108"],[3]],
+            "CRE" : [["CRE101"],[0,1,2,3]],
+            "SQ" : [[["BIO181","BIO181XT"],["CHM150","CHM151LL"],["CHM150AA"],["CHM151","CHM151LL"],["CHM151AA"],["GLG101","GLG103"],["GLG101IN"],["PHY115"],["PHY121"]],[4,5]],
+            "COM" : [["COM100","COM110","COM225","COM230"], [0, 1, 2, 3]],
+            "SB": [["SB"], [3]]
+        },
+        "Third Semester" : {
+            "CSC": [["CSC120", "EEE120"],[4]],
+            "ECE": [["ECE102"], [2]],
+            "MAT" : [["MAT230", "MAT231", "MAT227"],[3, 4, 5]],
+            "CRE" : [["CRE101"],[0,1,2,3]],
+            "SQ" : [[["BIO182","BIO182XT"],["CHM152","CHM152LL"],["CHM152AA"],["GLG102","GLG104"],["GLG102IN"],["PHY116"],["PHY131"]],[4,5]]
+        },
+        "Fourth Semester" : {
+            "CSC": [["CSC240", "240AA", "CSC230", "EEE230"],[3, 4]],
+            "ECE": [["ECE103", "ECE103EP"], [2]],
+            "HU" : [["HU"],[3]],
+            "L" : [["L"],[0, 1, 2, 3]],
+            "SQ" : [["SQ", "SG"], [4]]
+        }
+
+    }
+}
